@@ -1,7 +1,7 @@
-# 💫 About Me:
-I'm a senior at Penn State University with an interest in software and security engineering.<br><br>
-I'm currently working on a custom OSRM routing backend. The goal is a routing service with capabilites distinct from other available market options.
-
+# Hello! My name is Nathan Dummer
+Senior at Penn State University with an interest in software and security engineering.<br>
+Currently working on a custom OSRM routing backend.<br> 
+Learning more about rust and cyber security.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanedummer@gmail.com) 
