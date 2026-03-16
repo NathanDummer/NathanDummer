@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a custom OSRM-backend routing engine. This fork<br>will allow for special routing configurations at the preference of the user.<br><br>I am currently a senior studying computer science at penn state.<br><br>I have an interest in both software engineering and security engineering.<br><br>I have most of my experience in Python and C
+I'm a senior at Penn State University with an interest in software and security engineering.<br><br>
+I'm currently working on a custom OSRM routing backend. The goal is a routing service with capabilites distinct from other available market options.
 
 
 ## 🌐 Socials:
